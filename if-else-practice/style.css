@@ -1,0 +1,12 @@
+.btns {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.btns a {
+  background-color: #000;
+  color: #fff;
+  padding: 10px 20px;
+}
